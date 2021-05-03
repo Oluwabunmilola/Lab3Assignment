@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\M.I.S\\Desktop\\c# CLASSES\\Lab3Assignment\\Lab3Assignment.csproj": {}
+    "C:\\Users\\M.I.S\\Desktop\\c# CLASSES\\Lab3Assignment\\Lab3Assignment\\Lab3Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\M.I.S\\Desktop\\c# CLASSES\\Lab3Assignment\\Lab3Assignment.csproj": {
+    "C:\\Users\\M.I.S\\Desktop\\c# CLASSES\\Lab3Assignment\\Lab3Assignment\\Lab3Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\M.I.S\\Desktop\\c# CLASSES\\Lab3Assignment\\Lab3Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\M.I.S\\Desktop\\c# CLASSES\\Lab3Assignment\\Lab3Assignment\\Lab3Assignment.csproj",
         "projectName": "Lab3Assignment",
-        "projectPath": "C:\\Users\\M.I.S\\Desktop\\c# CLASSES\\Lab3Assignment\\Lab3Assignment.csproj",
+        "projectPath": "C:\\Users\\M.I.S\\Desktop\\c# CLASSES\\Lab3Assignment\\Lab3Assignment\\Lab3Assignment.csproj",
         "packagesPath": "C:\\Users\\M.I.S\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\M.I.S\\Desktop\\c# CLASSES\\Lab3Assignment\\obj\\",
+        "outputPath": "C:\\Users\\M.I.S\\Desktop\\c# CLASSES\\Lab3Assignment\\Lab3Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\M.I.S\\AppData\\Roaming\\NuGet\\NuGet.Config"
